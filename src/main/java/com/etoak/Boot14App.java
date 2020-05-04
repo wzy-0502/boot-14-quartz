@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
-@EnableScheduling // 启动spring task配置
+@EnableScheduling // 启动spring task配置 123
 public class Boot14App {
 
     public static void main(String[] args) {
